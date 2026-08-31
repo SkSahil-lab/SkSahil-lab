@@ -10,7 +10,7 @@ Bridging enterprise operations experience (3+ years, NVIDIA) with hands-on AI Ap
 ### 🎯 Currently Building — A 3-Phase AI Security Sprint
 
 * 🔴 **Phase 1 — Red Team:** [`llm-redteam-framework`](https://github.com/SkSahil-lab/llm-redteam-framework) — automated + manual attacks against every category in the OWASP Top 10 for LLM Applications
-* 🔵 **Phase 2 — Blue Team:** `llm-defense-gateway` — defense engineering built from scratch to stop the exact attacks from Phase 1
+* 🔵 **Phase 2 — Blue Team:** [`llm-defense-gateway`](https://github.com/SkSahil-lab/llm-defense-gateway) — defense engineering built from scratch to stop the exact attacks from Phase 1
 * 🟣 **Phase 3 — Capstone SaaS:** `llm-attack-defense-saas` — a unified platform that attacks, scores, and shields any LLM endpoint, containerized and deployed on Kubernetes
 
 Progress and technical write-ups posted daily.
