@@ -58,6 +58,6 @@ I catch adversarial prompt injections using vector geometry and semantic similar
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SkSahil-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SkSahil-lab&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=SkSahil-lab&label=Profile+views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
