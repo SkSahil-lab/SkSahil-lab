@@ -13,7 +13,7 @@ Bridging enterprise operations experience (3 years, NVIDIA) with hands-on AI App
 * 🔵 **Phase 2 — Blue Team:** [`llm-defense-gateway`](https://github.com/SkSahil-lab/llm-defense-gateway) — defense engineering built from scratch to stop the exact attacks from Phase 1
 * 🟣 **Phase 3 — Capstone SaaS:** `llm-attack-defense-saas` — a unified platform that attacks, scores, and shields any LLM endpoint, containerized and deployed on Kubernetes
 
-Progress and technical write-ups posted daily.
+Progress and technical write-ups Progress updates and technical write-ups on [LinkedIn](https://www.linkedin.com/in/sahil-ai-sec/).
 
 ---
 
